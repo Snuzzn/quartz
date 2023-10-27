@@ -1,0 +1,12 @@
+- **Metadata** 
+	- Source(s): https://www.reddit.com/r/Stoicism/comments/gbhsv6/rational_mind_vs_emotions/
+	- Topics:  #personal-development
+	- Type: #source
+- Stoics believe that there the conflict is not between reason and emotion
+- Instead, conflict is between reason and unexamined thought
+	- we should rationally consider the random thoughts that occur in our life
+- Emotions take care of themselves; they shadow our belief
+	- unruly emotions is a sign of unruly beliefs, like smoke is a sign of fire. We have no quarrel with the smoke.
+	- We often hold competing beliefs. The instant our belief changes, the emotion will follow
+		- e.g.spot a mouse on a car but it turns out to be a leaf; feeling of curiosity instantly replaced by disappointment/amusement at the illusion.
+	- The goal is to be consistent with our beliefs; discard the false

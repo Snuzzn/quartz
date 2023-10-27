@@ -16,10 +16,10 @@ There are several techniques that stoics use in their daily lives:
 - [[negative visualisation]]
 - [[let go of the past]]
 - [[self-denial]]
-- [[meditate on daily life]]
 ---
 - [[Stoics are often misconceived as passive, unfeeling individuals]].
-- [[Stoicism.canvas]]
+
+
 ---
 - Sources:
 	- [[Source - A Guide to the Good Life, the Ancient Art of Stoic Joy - William B. Irvine]]

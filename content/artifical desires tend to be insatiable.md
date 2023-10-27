@@ -8,8 +8,6 @@ Getting the thing we want tends not to produce the satisfaction we imagine, so w
 It is clear then that the mind has an appetite for [[desire]] itself rather than any particular thing. 
 
 
-
-
 ---
 - Sources:
 	- [[Lit  - The Practising Stoic - Ward Farnsworth]]
